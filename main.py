@@ -8,7 +8,7 @@ from openai import OpenAI
 import utils as ut
 client = OpenAI(
     base_url ="https://api.groq.com/openai/v1",
-    api_key = "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"
+    api_key = os.environ.get("GROQ_API_KEY")
 )
 
 
