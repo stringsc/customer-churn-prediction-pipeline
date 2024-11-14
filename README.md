@@ -2,6 +2,8 @@
 
 This repository contains a complete pipeline for predicting customer churn using machine learning. The project focuses on loading and preprocessing the data, training multiple models, evaluating their performance, and saving the trained models for later use.
 
+Within Replit I have also created a website for viewing the customer data, their chances of churning, a summary of the cutomer themselves, and a personalized email.
+
 ## Features
 
 -**Data Preprocessing**: Cleaning and preparing the dataset for modeling.
